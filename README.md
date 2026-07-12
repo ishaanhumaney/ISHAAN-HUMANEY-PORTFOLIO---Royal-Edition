@@ -12,7 +12,7 @@
 
 An uncompromised, high-fidelity digital archive and portfolio built on premium print-editorial mechanics. This interface serves as an immersive single-page ecosystem pairing meticulous typographic layouts with highly synchronized, physics-driven interaction architectures.
 
-[View Live Archive](#(https://ishaanhumaney.github.io/ISHAAN-HUMANEY-PORTFOLIO---Royal-Edition/)) ---
+[View Live Archive](https://ishaanhumaney.github.github.io/ISHAAN-HUMANEY-PORTFOLIO---Royal-Edition/)
 
 ## ── The Visual Architecture & Uniqueness
 
