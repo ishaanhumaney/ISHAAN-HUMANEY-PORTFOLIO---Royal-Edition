@@ -1,0 +1,36 @@
+# ==========================================================================
+# ISHAAN HUMANEY PORTFOLIO - PRODUCTION GITIGNORE
+# ==========================================================================
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and Code Editor Configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Local Server / Build Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.logs/
+*.log
+
+# Environment & Private Keys
+.env
+.env.local
+.env.production
+
+# Deployment / Hosting Cache
+.clerk/
+.next/
+out/
+build/
+dist/
